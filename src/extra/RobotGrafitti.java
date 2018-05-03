@@ -14,6 +14,7 @@ look.turn(180);
 look.move(100);
 look.turn(225);
 look.move(100);
+look.turn();
 look.turn(90);
 look.move(100);
 }
