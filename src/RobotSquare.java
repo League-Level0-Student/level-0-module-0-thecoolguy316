@@ -8,7 +8,10 @@ import org.jointheleague.graphical.robot.Robot;
 // This recipe draws a square using the Robot
 
 public class RobotSquare {
-    public static void main(String[] args) throws Exception {
+    public class MorningZombie {
+
+	}
+	public static void main(String[] args) throws Exception {
  
     	// 1. Make a new Robot
 Robot cool = new Robot();
